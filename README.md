@@ -1,4 +1,4 @@
-# temperatura-unidades-conservacao-mg
+# temperatura-fevereiro-mg
 Repositório criado para a Trabalho Prático 2 da disciplina de Bancos de Dados Geográficos na UFMG
 
 # Manipulando os dados SQL
